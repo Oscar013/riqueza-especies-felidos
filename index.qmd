@@ -117,6 +117,8 @@ cantones_union_riqueza <-
 #| code-fold: true
 #| warning: false
 #| message: false
+
+
 # Paleta de colores de riqueza de especies
 colores_riqueza_especies <-
   colorNumeric(
